@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Main</title>
+    <link>https://ivanpehlivanov.github.io/post/</link>
+    <description>Recent content in Projects on Main</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://ivanpehlivanov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-1: Calculator</title>
+      <link>https://ivanpehlivanov.github.io/post/project-1/</link>
+      <pubDate>Tue, 10 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ivanpehlivanov.github.io/post/project-1/</guid>
+      <description>This is a Calculator. It have ability to zoom his numbers and values with animation.   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project-2: Mathematic Matrix</title>
+      <link>https://ivanpehlivanov.github.io/post/project-2/</link>
+      <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://ivanpehlivanov.github.io/post/project-2/</guid>
+      <description>This is a Mathematic Matrix and is like a small game. There are 4 Types of Operator as (+,-,*,/). We can choose each Operator from Combo box line. Every operator calculated numbers to 10th of values as depend from operator going to 100 or law values. For more fun,every time when we choose an operator, randomly boxes from matrix randomly would be empty and we should to find where are the empty boxes and to type the write values in the box.</description>
+    </item>
+    
+    <item>
+      <title>Project-3: Scale Check</title>
+      <link>https://ivanpehlivanov.github.io/post/project-3/</link>
+      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://ivanpehlivanov.github.io/post/project-3/</guid>
+      <description>This is a Scale Check Software, which can be connected with Data Bank or connected with live sources as(Devices or etc.) and give us data which we needed for work.
+  Link to GitHub to Repository</description>
+    </item>
+    
+    <item>
+      <title>Project-4: Software for Logistic and Storage</title>
+      <link>https://ivanpehlivanov.github.io/post/project-4/</link>
+      <pubDate>Wed, 12 Feb 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://ivanpehlivanov.github.io/post/project-4/</guid>
+      <description>This is a Software for Warehouse and Logistic. Those Software has two Pages of Functions and they are connected with Data Base, first is about Storage, reserve, delete data from Warehouse. Also, give us exactly where are the free and occupied places to store packets or what of purpose we need. Second pages, show us where are the free and occupied places in two separated boxes which are green(free) and red(occupied).</description>
+    </item>
+    
+  </channel>
+</rss>
